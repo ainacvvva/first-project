@@ -3,7 +3,7 @@
 ## ↬ Features:
 ◌ Fully responsive layout using media queries<br>
 ◌ Burger menu appears on smaller screens<br>
-◌ Slider (carousel)<br>
+◌ Slider<br>
 ◌ Smooth CSS(SCSS) animations<br>
 
 ## ↬ Technologies:
